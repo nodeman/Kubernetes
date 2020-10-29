@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T05:39:53.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lSdYZWenwVTWP4MbQfCZ" version="13.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-29T05:40:16.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TEK-wi2BvCMWlidlc-ww" version="13.8.2" type="github" pages="2">
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1865" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nP4L_gj-Ds2LVs9GI-Jx-3" value="ClusterIP&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cn45hVMv1ZVLGDNRas86-1">
+        <mxCell id="nP4L_gj-Ds2LVs9GI-Jx-3" value="LB&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cn45hVMv1ZVLGDNRas86-1">
           <mxGeometry x="296" y="341" width="62.5" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="nP4L_gj-Ds2LVs9GI-Jx-4" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cn45hVMv1ZVLGDNRas86-1">
