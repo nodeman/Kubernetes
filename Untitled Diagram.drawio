@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T06:51:56.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qpUFeGu3iScVPyY8rsPE" version="13.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-03T06:52:18.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lWBJvKJCS9bg1Lvnahrm" version="13.8.8" type="github" pages="3">
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1900" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
           <mxGeometry x="40" y="558.13" width="884.25" height="237.87" as="geometry" />
         </mxCell>
         <mxCell id="I2SuHb6A-RKmWfgWCjn4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qielxEtc3-T6BIFznoN1-1" vertex="1">
-          <mxGeometry x="40" y="60" width="884.25" height="470.75" as="geometry" />
+          <mxGeometry x="40" y="60" width="740" height="470.75" as="geometry" />
         </mxCell>
         <mxCell id="I2SuHb6A-RKmWfgWCjn4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="qielxEtc3-T6BIFznoN1-1" vertex="1">
           <mxGeometry x="542" y="801" width="162.5" height="140" as="geometry" />
@@ -772,7 +772,7 @@
         <mxCell id="Jsaui_N-G4Di_A62aU2Y-10" value="Label (zone: Plugin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
           <mxGeometry x="332" y="538.13" width="163" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tCKkDrR6v7vu4-xH5ce5-0" value="&lt;h1 style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1. 노드 스케줄링(PodAntiAffinity) 으로 2대의 다른 Worker Node에 Pod가 배포될수 있도록 구성&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal ; font-size: 8px ; line-height: 100%&quot;&gt;2&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
+        <mxCell id="tCKkDrR6v7vu4-xH5ce5-0" value="&lt;h1 style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1. 노드 스케줄링(PodAntiAffinity) 으로 2대의 다른 Worker Node에 Pod가 배포될수 있도록 구성&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-weight: normal ; font-size: 8px ; line-height: 100%&quot;&gt;2&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
           <mxGeometry x="310.25" y="359.63" width="452.75" height="130.37" as="geometry" />
         </mxCell>
         <mxCell id="I2SuHb6A-RKmWfgWCjn4-77" value="&lt;font style=&quot;font-size: 9px&quot;&gt;30443&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qielxEtc3-T6BIFznoN1-1" vertex="1">
