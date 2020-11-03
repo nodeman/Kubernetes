@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T06:51:18.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bnXAQcTp4YmWZz6fr8Iy" version="13.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-03T06:51:56.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qpUFeGu3iScVPyY8rsPE" version="13.8.8" type="github" pages="3">
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1900" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -766,8 +766,8 @@
         <mxCell id="hlRar5j66_naaIXERVi--22" value="Label (zone: main)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
           <mxGeometry x="182.76" y="39" width="163" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jsaui_N-G4Di_A62aU2Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
-          <mxGeometry x="440.5" y="580.26" width="266.75" height="185.74" as="geometry" />
+        <mxCell id="Jsaui_N-G4Di_A62aU2Y-1" value="Nginx&lt;br&gt;&lt;br&gt;Loki&lt;br&gt;&lt;br&gt;Prometeus&lt;br&gt;&lt;br&gt;Nginx&lt;br&gt;&lt;br&gt;SFTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
+          <mxGeometry x="87" y="580.26" width="266.75" height="185.74" as="geometry" />
         </mxCell>
         <mxCell id="Jsaui_N-G4Di_A62aU2Y-10" value="Label (zone: Plugin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qielxEtc3-T6BIFznoN1-1">
           <mxGeometry x="332" y="538.13" width="163" height="20" as="geometry" />
