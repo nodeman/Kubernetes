@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T01:42:58.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="okY82m1YFwEeUebDGvVc" version="13.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T01:46:42.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YmNXPIfMPrw9Yal67pkk" version="13.8.8" type="github" pages="3">
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1589" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="m_T6B4W4RkeVZgckrHfZ-7" value="Push/Pull" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
           <mxGeometry x="-280" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_T6B4W4RkeVZgckrHfZ-9" value="&lt;ul&gt;&lt;li&gt;Build : SVN Pull /war Build&lt;/li&gt;&lt;li&gt;Package :&amp;nbsp;Docker 이미지 패키지 빌드&amp;nbsp;&lt;/li&gt;&lt;li&gt;Push :&amp;nbsp;Docker 이미지 Harbor로 Push&lt;/li&gt;&lt;li&gt;Deploy :&amp;nbsp;k8s 클러스터에 배포&lt;/li&gt;&lt;li&gt;Pod Check : Pod 체크&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
+          <mxGeometry x="-510" y="510" width="260" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
