@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T01:46:42.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YmNXPIfMPrw9Yal67pkk" version="13.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T01:49:34.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="snLKjOHkVK4yXa2dlnRh" version="13.8.8" type="github" pages="3">
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1589" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m_T6B4W4RkeVZgckrHfZ-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.227;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="EuUX5kLOg7JwNG9CxY4a-1" source="m_T6B4W4RkeVZgckrHfZ-0" target="m_T6B4W4RkeVZgckrHfZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m_T6B4W4RkeVZgckrHfZ-0" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
           <mxGeometry x="-490" y="400" width="220" height="120" as="geometry" />
         </mxCell>
@@ -356,7 +359,13 @@
           <mxGeometry x="-280" y="320" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m_T6B4W4RkeVZgckrHfZ-9" value="&lt;ul&gt;&lt;li&gt;Build : SVN Pull /war Build&lt;/li&gt;&lt;li&gt;Package :&amp;nbsp;Docker 이미지 패키지 빌드&amp;nbsp;&lt;/li&gt;&lt;li&gt;Push :&amp;nbsp;Docker 이미지 Harbor로 Push&lt;/li&gt;&lt;li&gt;Deploy :&amp;nbsp;k8s 클러스터에 배포&lt;/li&gt;&lt;li&gt;Pod Check : Pod 체크&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
-          <mxGeometry x="-510" y="510" width="260" height="90" as="geometry" />
+          <mxGeometry x="-400" y="510" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m_T6B4W4RkeVZgckrHfZ-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
+          <mxGeometry x="-446.5" y="660" width="133" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m_T6B4W4RkeVZgckrHfZ-11" value="SVN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
+          <mxGeometry x="-400" y="720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
