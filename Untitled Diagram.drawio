@@ -1,4 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T02:18:03.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2me26g3_tVVyuV_B98sU" version="14.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:53:16.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7lhWYq4CLJTgwjlPxOxW" version="14.1.8" type="github" pages="4">
+  <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
+    <mxGraphModel dx="919" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-0" />
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-1" parent="PNiSEAVqumczl3CK1zWQ-0" />
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-2" value="[]Dev-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="431" y="50" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-3" value="[Qa-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="430" y="290" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-4" value="[Test-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="430" y="530" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-5" value="[DevOps]&lt;br&gt;&lt;br&gt;Nodes: 3,&amp;nbsp; cpu:&amp;nbsp; mem:&lt;br&gt;Red Hat Ent Linux 8.1&amp;nbsp;&lt;br&gt;kube version: 1.16&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;10.253.248.83&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;86&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;87&lt;br&gt;&lt;br&gt;&lt;br&gt;Harbor, Stanby-Harbor&lt;br&gt;Prometheus, Grafana&lt;br&gt;Cassandra&lt;br&gt;Loki" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="80" y="260" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-6" value="Bastion&lt;br&gt;CI/CD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="155" y="110" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNiSEAVqumczl3CK1zWQ-7" value="[Mgmt-new]&lt;br&gt;&lt;br&gt;Nodes: ,&amp;nbsp; cpu:&amp;nbsp; mem:&lt;br&gt;Red Hat Ent Linux 8.1&amp;nbsp;&lt;br&gt;kube version:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;10.25&lt;br&gt;&lt;br&gt;&lt;br&gt;Rancher&lt;br&gt;Prometheus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNiSEAVqumczl3CK1zWQ-1" vertex="1">
+          <mxGeometry x="90" y="520" width="240" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
     <mxGraphModel dx="1746" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,32 +566,6 @@
         </mxCell>
         <mxCell id="tONXbYnaxI7hkLTvQQpr-0" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;http://dev.core-svp-svc/&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=15;" parent="qielxEtc3-T6BIFznoN1-1" vertex="1">
           <mxGeometry x="-35.620000000000005" y="320" width="245.62" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="zqWQqUdTwiIyOvmaYmjz" name="Page-5">
-    <mxGraphModel dx="919" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-0" />
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-1" parent="PNiSEAVqumczl3CK1zWQ-0" />
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-2" value="[]Dev-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="431" y="50" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-3" value="[Qa-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="430" y="290" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-4" value="[Test-App]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="430" y="530" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-5" value="[DevOps]&lt;br&gt;&lt;br&gt;Nodes: 3,&amp;nbsp; cpu:&amp;nbsp; mem:&lt;br&gt;Red Hat Ent Linux 8.1&amp;nbsp;&lt;br&gt;kube version: 1.16&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;10.253.248.83&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;86&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;87&lt;br&gt;&lt;br&gt;&lt;br&gt;Harbor, Stanby-Harbor&lt;br&gt;Prometheus, Grafana&lt;br&gt;Cassandra&lt;br&gt;Loki" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="80" y="260" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-6" value="Bastion&lt;br&gt;CI/CD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="155" y="110" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PNiSEAVqumczl3CK1zWQ-7" value="[Mgmt-new]&lt;br&gt;&lt;br&gt;Nodes: ,&amp;nbsp; cpu:&amp;nbsp; mem:&lt;br&gt;Red Hat Ent Linux 8.1&amp;nbsp;&lt;br&gt;kube version:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;10.25&lt;br&gt;&lt;br&gt;&lt;br&gt;Rancher&lt;br&gt;Prometheus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PNiSEAVqumczl3CK1zWQ-1">
-          <mxGeometry x="90" y="520" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
