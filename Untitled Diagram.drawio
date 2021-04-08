@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T08:13:33.982Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rW_nn4Xl5OFMqYQWmNMe" version="14.5.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-08T08:15:18.319Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="seyO0Nnqth3YLQCgeJCe" version="14.5.8" type="github" pages="4">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="HZY92TdaL5Sa6r6CAAlW-4" value="&lt;span style=&quot;font-size: 20px&quot;&gt;QA Cluster&lt;br&gt;(main: 10, plugin: 2)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
           <mxGeometry x="-60" y="245" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="HZY92TdaL5Sa6r6CAAlW-5" value="&lt;span style=&quot;font-size: 20px&quot;&gt;PROD Cluster (22)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
+        <mxCell id="HZY92TdaL5Sa6r6CAAlW-5" value="&lt;span style=&quot;font-size: 20px&quot;&gt;PROD Cluster&lt;br&gt;(main: 16, plugin: 6)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
           <mxGeometry x="-60" y="475" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="HZY92TdaL5Sa6r6CAAlW-6" value="&lt;ul&gt;&lt;li&gt;(28개 Job)&lt;/li&gt;&lt;li&gt;CheckOut&lt;/li&gt;&lt;li&gt;Build --&amp;gt; ~.war&lt;/li&gt;&lt;li&gt;Package&lt;/li&gt;&lt;li&gt;Push&lt;/li&gt;&lt;li&gt;Deploy&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="EuUX5kLOg7JwNG9CxY4a-1">
