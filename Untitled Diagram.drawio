@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T04:43:33.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="GetArNAyK5nYV_GM79cD" version="14.6.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-05T04:44:52.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="aDNjscShlLDbiITtL3BN" version="14.6.10" type="github" pages="5">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1192" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -593,13 +593,13 @@
           <mxGeometry x="119" y="350" width="30" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="6bwXdIsYSjmHxG7HKHA7-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="6bwXdIsYSjmHxG7HKHA7-1" vertex="1">
-          <mxGeometry x="455" y="90" width="115" height="220" as="geometry" />
+          <mxGeometry x="455" y="90" width="115" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6bwXdIsYSjmHxG7HKHA7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="6bwXdIsYSjmHxG7HKHA7-1" source="6bwXdIsYSjmHxG7HKHA7-6" target="6bwXdIsYSjmHxG7HKHA7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bwXdIsYSjmHxG7HKHA7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="6bwXdIsYSjmHxG7HKHA7-1" vertex="1">
-          <mxGeometry x="570" y="90" width="10" height="220" as="geometry" />
+          <mxGeometry x="570" y="90" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6bwXdIsYSjmHxG7HKHA7-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="6bwXdIsYSjmHxG7HKHA7-1" vertex="1">
           <mxGeometry x="500" y="110" width="40" height="40" as="geometry" />
