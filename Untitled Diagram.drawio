@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:10:14.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="-PPFz-xwZ2Ld9-i3FTGO" version="16.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:10:57.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Fy_RaQW8WIvLvIGCO6LM" version="16.6.7" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="713" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -707,11 +707,11 @@
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="320" y="220" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fsqqhYpUwCzIYPG1Alvv-6" value="Spring&lt;br&gt;Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
+        <mxCell id="fsqqhYpUwCzIYPG1Alvv-6" value="API&lt;br&gt;Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="357.75" y="249.63" width="62.5" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-19" value="BT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="369" y="168.76" width="40" height="30" as="geometry" />
+          <mxGeometry x="396.25" y="193" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-26" value="&lt;span style=&quot;font-size: 21px&quot;&gt;상품처리&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=17;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="695.63" y="42" width="99.62" height="20" as="geometry" />
