@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T04:42:05.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Wehw6PnWhwy7z5_lgVZ-" version="16.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-08T04:43:11.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="W2fvNprvhmg-ZluzV2ou" version="16.6.7" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="713" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -696,7 +696,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="A2LmARMEres4ZetsoRki" name="페이지-7">
+  <diagram id="A2LmARMEres4ZetsoRki" name="모바일신분증(개발아키텍처)">
     <mxGraphModel dx="1814" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-0" />
@@ -738,7 +738,7 @@
           <mxGeometry x="530" y="73.11999999999999" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="710" y="67.88" width="80.51" height="80.51" as="geometry" />
+          <mxGeometry x="714.38" y="77.57" width="62.12" height="62.12" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fsqqhYpUwCzIYPG1Alvv-1" source="fsqqhYpUwCzIYPG1Alvv-6" target="gZm1RWyPxPBLoX-sR89b-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -753,7 +753,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="339.99999999999994" y="398.75" width="80" height="80" as="geometry" />
+          <mxGeometry x="350.13" y="420" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-10" value="RCP host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="337" y="478.75" width="91.25" height="30" as="geometry" />
