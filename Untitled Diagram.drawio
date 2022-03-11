@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T01:10:31.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="dbtisGTGDj3tT9JlPzKK" version="16.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-11T01:12:45.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="zuVBepPDjQj_gX1yNtX2" version="16.6.7" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="713" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -759,7 +759,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;fontSize=15;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="-160" y="97.63" width="70" height="110" as="geometry" />
+          <mxGeometry x="-190" y="98.11999999999999" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fsqqhYpUwCzIYPG1Alvv-1" source="fsqqhYpUwCzIYPG1Alvv-70" target="fsqqhYpUwCzIYPG1Alvv-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -850,6 +850,9 @@
             <mxPoint x="612" y="129" as="sourcePoint" />
             <mxPoint x="612" y="99" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gZm1RWyPxPBLoX-sR89b-52" value="고객폰으로 QR 촬영" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
+          <mxGeometry x="-113" y="130.12" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
