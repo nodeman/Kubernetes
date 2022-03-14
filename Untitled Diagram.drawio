@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T01:58:51.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="sMBnEn23IhdepEqieXsz" version="16.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-14T01:23:47.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="W1A2wYIYIuusoeaZC0mV" version="16.6.7" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="713" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -827,14 +827,14 @@
         <mxCell id="gZm1RWyPxPBLoX-sR89b-33" value="5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="542.15" y="321.5" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="gZm1RWyPxPBLoX-sR89b-34" value="https://hanamdl.hanabank.com:5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="-130" y="276" width="197.25" height="30" as="geometry" />
+        <mxCell id="gZm1RWyPxPBLoX-sR89b-34" value="운영 : https://hanamdl.hanabank.com:5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
+          <mxGeometry x="-165.25" y="311.01" width="250" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-35" value="203.175.189.147" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="549.78" y="505.56999999999994" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-38" value="28888" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="609.4" y="451.13" width="50" height="15" as="geometry" />
+          <mxGeometry x="611.78" y="456.13" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-39" value="&lt;span style=&quot;font-size: 15px&quot;&gt;스마트창구&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="-25.25" y="78.12" width="110" height="30" as="geometry" />
@@ -853,6 +853,9 @@
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-52" value="고객폰으로 QR 촬영" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
           <mxGeometry x="-113" y="130.12" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZm1RWyPxPBLoX-sR89b-55" value="&amp;nbsp;개발 : http://IP:5000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
+          <mxGeometry x="-228" y="274.88" width="250" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
