@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T02:04:40.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0N4fC1d5LvJRpsi7hGr0" version="17.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-23T02:20:33.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="mPJ-32PdtfTx65FpZfwE" version="17.1.3" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1234" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A2LmARMEres4ZetsoRki" name="모바일신분증(개발아키텍처)">
-    <mxGraphModel dx="1949" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-0" />
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-1" parent="fsqqhYpUwCzIYPG1Alvv-0" />
@@ -816,7 +816,7 @@
           <mxGeometry x="609.4" y="352.88" width="75.85" height="13" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-32" value="18080" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
-          <mxGeometry x="269" y="261.76" width="50" height="15" as="geometry" />
+          <mxGeometry x="268" y="261.76" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-33" value="18080" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
           <mxGeometry x="539.15" y="262.38" width="50" height="15" as="geometry" />
