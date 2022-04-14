@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T02:03:08.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="yGnLhAHiH1b3k2AU0uIU" version="17.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-14T02:03:26.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="6aDSMEIF-8SxJA2C-x0L" version="17.1.3" type="github" pages="7">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="817" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
           <mxGeometry x="360" y="129.93" width="70" height="63.88" as="geometry" />
         </mxCell>
         <mxCell id="CraZzW_AXVd3snAIS2HY-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;* home&lt;br&gt;/sw/eauapp&lt;br&gt;&lt;br&gt;* 업무 log&lt;br&gt;/logs/eauapp&lt;br&gt;&lt;br&gt;* application&lt;br&gt;web : /sw/eauapp/webdoc/&lt;br&gt;was : /sw/eauapp/webapp/mdl/&lt;br&gt;&lt;br&gt;* web/was log&lt;br&gt;web : /logs/httpd/eauWebSvr101&lt;br&gt;was : /logs/jboss/eauDomain01/eauSvr101/server.log&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/logs/jboss/eauDomain01/eauSvr102/server.log&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
-          <mxGeometry x="143.5" y="326" width="368.5" height="238.37" as="geometry" />
+          <mxGeometry x="143.5" y="315" width="368.5" height="238.37" as="geometry" />
         </mxCell>
         <mxCell id="r6cyDYr2GTXfKcP4JPjM-0" value="&lt;font style=&quot;font-size: 13px&quot;&gt;* DocumentRoot&lt;br&gt;/sw/eauapp/webdoc&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
           <mxGeometry x="200" y="167.88" width="138.5" height="40" as="geometry" />
