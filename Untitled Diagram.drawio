@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T08:53:06.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="VHrLNx755vzoB5bq454O" version="17.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-19T08:53:55.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="bhZ1_pi6Jj5eUJlBXxl-" version="17.1.3" type="github" pages="8">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="817" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1095,7 +1095,7 @@
           <mxGeometry x="356" y="156.12" width="70" height="63.88" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-46" value="JNDI: jdbc/eauconDS&lt;br&gt;url : 10.60.77.141:1543:dbdoii11" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
-          <mxGeometry x="750" y="400.5" width="188" height="59" as="geometry" />
+          <mxGeometry x="742" y="398.5" width="188" height="59" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Oracle&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
           <mxGeometry x="810" y="314" width="60" height="80" as="geometry" />
