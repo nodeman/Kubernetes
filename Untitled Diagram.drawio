@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T08:10:25.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="gkaTg93i3goHVzkB7pwW" version="17.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-19T08:10:44.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Tp7OTSHNaX8DcmArHBds" version="17.1.3" type="github" pages="8">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="817" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -972,7 +972,7 @@
         <mxCell id="mYcQQDsavKgxlnwhHYIC-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
           <mxGeometry x="588.7299999999998" y="533.63" width="96.87" height="96.87" as="geometry" />
         </mxCell>
-        <mxCell id="mYcQQDsavKgxlnwhHYIC-12" value="RCP host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
+        <mxCell id="mYcQQDsavKgxlnwhHYIC-12" value="금결원서버" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
           <mxGeometry x="591.5399999999998" y="631.5" width="91.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Omni SDK&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="mYcQQDsavKgxlnwhHYIC-1">
