@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:55:51.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="WBonc0MljYvwx2tXLSaa" version="17.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-04T06:56:47.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="S3djhREfUEgMbBWb5G_q" version="17.1.3" type="github" pages="8">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="810" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -904,8 +904,8 @@
             <mxPoint x="795.4" y="269.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gZm1RWyPxPBLoX-sR89b-33" value="ajp 29019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
-          <mxGeometry x="593" y="208.65" width="50" height="21.61" as="geometry" />
+        <mxCell id="gZm1RWyPxPBLoX-sR89b-33" value="18443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
+          <mxGeometry x="593" y="213.65" width="50" height="21.61" as="geometry" />
         </mxCell>
         <mxCell id="gZm1RWyPxPBLoX-sR89b-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="fsqqhYpUwCzIYPG1Alvv-1" source="fsqqhYpUwCzIYPG1Alvv-70" target="12oy5Y2vH1acyZ-yriWN-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -919,8 +919,8 @@
             <mxPoint x="640.2225896832306" y="244.22225148838425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12oy5Y2vH1acyZ-yriWN-11" value="ajp 29020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
-          <mxGeometry x="593" y="255.15" width="50" height="21.61" as="geometry" />
+        <mxCell id="12oy5Y2vH1acyZ-yriWN-11" value="18443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
+          <mxGeometry x="594" y="262.15" width="50" height="21.61" as="geometry" />
         </mxCell>
         <mxCell id="12oy5Y2vH1acyZ-yriWN-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;web:18080&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" parent="fsqqhYpUwCzIYPG1Alvv-1" vertex="1">
           <mxGeometry x="627.74" y="178.19" width="84.26" height="16.62" as="geometry" />
@@ -930,9 +930,6 @@
             <mxPoint x="627.55" y="222.55" as="sourcePoint" />
             <mxPoint x="425.99543648262994" y="179.99543648262994" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MQXShqgApYpl5fWgR9YZ-0" value="18443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="fsqqhYpUwCzIYPG1Alvv-1">
-          <mxGeometry x="460" y="243.76" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
