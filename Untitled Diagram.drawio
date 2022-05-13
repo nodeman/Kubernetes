@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T00:49:07.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="GVP3tQFGDl5daG40BtB2" version="17.1.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-13T04:06:36.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="xkOpziWqzSNraXm9lWgY" version="17.1.3" type="github" pages="9">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="810" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1315,8 +1315,8 @@
             <mxPoint x="628.7225896832306" y="334.22225148838425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7gq9AphBpjyg1umHl6LO-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;web:18180&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="7gq9AphBpjyg1umHl6LO-1">
-          <mxGeometry x="587.24" y="268.19" width="84.26" height="16.62" as="geometry" />
+        <mxCell id="7gq9AphBpjyg1umHl6LO-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;18180&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="7gq9AphBpjyg1umHl6LO-1">
+          <mxGeometry x="584.04" y="270" width="84.26" height="16.62" as="geometry" />
         </mxCell>
         <mxCell id="7gq9AphBpjyg1umHl6LO-59" value="JNDI&lt;br&gt;java:/eauconDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="7gq9AphBpjyg1umHl6LO-1">
           <mxGeometry x="705.5" y="318.26" width="138" height="25.74" as="geometry" />
@@ -1334,7 +1334,10 @@
           <mxGeometry x="-130" y="400" width="148.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SlhtZEGMi4Y9bSSQG-XH-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;http://10.60.4.51:18180/eds/*&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="7gq9AphBpjyg1umHl6LO-1">
-          <mxGeometry x="634.1999999999999" y="210" width="192.21" height="16.62" as="geometry" />
+          <mxGeometry x="634.4999999999999" y="180" width="192.21" height="16.62" as="geometry" />
+        </mxCell>
+        <mxCell id="SlhtZEGMi4Y9bSSQG-XH-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;18180&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="7gq9AphBpjyg1umHl6LO-1">
+          <mxGeometry x="564.9399999999999" y="339.07" width="84.26" height="16.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
