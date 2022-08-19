@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T04:27:42.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hEmcRE8rfllV4XzKtAEy" version="20.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-19T04:32:50.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d03ztyqeo8co1m31xsDX" version="20.2.3" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1298" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1771,13 +1771,13 @@
           <mxGeometry x="1210" y="256" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-7" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Quicksand;fontSize=15;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="309.09000000000003" y="571" width="60" height="80" as="geometry" />
+          <mxGeometry x="330" y="572" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-9" value="&lt;span&gt;Git Repo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="274.09000000000003" y="657" width="130" height="20" as="geometry" />
+          <mxGeometry x="295" y="657" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-11" value="Agile 도구&lt;br&gt;(Issue, MR)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
-          <mxGeometry x="297.59000000000003" y="456.56" width="83" height="85" as="geometry" />
+          <mxGeometry x="274.09000000000003" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" edge="1" parent="1" source="W8eERUNY3Q4Qoi8dCW9J-20" target="W8eERUNY3Q4Qoi8dCW9J-24">
           <mxGeometry relative="1" as="geometry" />
@@ -2111,31 +2111,34 @@
           <mxGeometry x="380.59000000000003" y="359.99999999999994" width="72.19" height="72.19" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-102" value="프로젝트&lt;br&gt;지식창고&lt;br&gt;WiKi" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
-          <mxGeometry x="404.59000000000003" y="454.45" width="83" height="85" as="geometry" />
+          <mxGeometry x="369.78000000000003" y="455.5" width="83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-103" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
-          <mxGeometry x="517.4200000000001" y="454.45" width="83" height="85" as="geometry" />
+        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-103" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
+          <mxGeometry x="467.00000000000006" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-104" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
-          <mxGeometry x="622.4200000000001" y="454.45" width="83" height="85" as="geometry" />
+        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-104" value="클라우드&lt;br&gt;k8s, helm Terraform" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
+          <mxGeometry x="564.83" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="341.09000000000003" y="676" as="sourcePoint" />
-            <mxPoint x="341.09000000000003" y="676" as="targetPoint" />
+            <mxPoint x="362" y="677" as="sourcePoint" />
+            <mxPoint x="362" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-106" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Quicksand;fontSize=15;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="467" y="572" width="60" height="80" as="geometry" />
+          <mxGeometry x="478.5" y="572" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-107" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Quicksand;fontSize=15;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="633.9200000000001" y="572" width="60" height="80" as="geometry" />
+          <mxGeometry x="622.8000000000001" y="572" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-108" value="&lt;span&gt;Container Registry&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="436.5" y="657" width="130" height="20" as="geometry" />
+          <mxGeometry x="443.5" y="657" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-109" value="&lt;span&gt;Infra Registry&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="598.92" y="657" width="130" height="20" as="geometry" />
+          <mxGeometry x="587.8" y="657" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-110" value="Security" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
+          <mxGeometry x="660" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
