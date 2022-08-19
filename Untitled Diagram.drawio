@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T08:21:23.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jtrSGZvwXc7SFebSXeza" version="20.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-19T08:25:45.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KorZdGc4eCOeFFoI5gtJ" version="20.2.3" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1298" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2062,7 +2062,7 @@
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-166" value="&lt;div style=&quot;font-size: 16px&quot;&gt;BT&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
           <mxGeometry x="1045.39" y="630" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-167" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Quicksand;strokeWidth=2;strokeColor=#177245;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="W8eERUNY3Q4Qoi8dCW9J-172" source="W8eERUNY3Q4Qoi8dCW9J-103">
+        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-167" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Quicksand;strokeWidth=2;strokeColor=#177245;exitX=0.994;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="W8eERUNY3Q4Qoi8dCW9J-172" source="W8eERUNY3Q4Qoi8dCW9J-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="510" as="sourcePoint" />
             <mxPoint x="1010" y="883.4" as="targetPoint" />
@@ -2123,8 +2123,8 @@
         <mxCell id="LdkHlnS4z8hgSfdhY3lJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" edge="1" parent="1" source="LdkHlnS4z8hgSfdhY3lJ-1" target="LdkHlnS4z8hgSfdhY3lJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LdkHlnS4z8hgSfdhY3lJ-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;신규 프로젝트&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. GitLab --&amp;gt; Group생성, 사용자생성, Repository생성&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. 신규 BT, PT서버에서 Git Clone으로 (gitlab runner, 빌드도구, 라이브러리) 다운로드&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. gitlab runner설치 및 등록&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="715.83" y="845.51" width="617.49" height="245" as="geometry" />
+        <mxCell id="LdkHlnS4z8hgSfdhY3lJ-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;신규 프로젝트&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. GitLab --&amp;gt; Group생성, 사용자생성, Repository생성&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. 신규 BT, PT서버에서 Git Clone으로 (gitlab runner, 빌드도구, 라이브러리) 다운로드&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. gitlab runner설치 및 등록&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4. 스케폴딩에서 Repo에서 clone받아 push, 빌드, 배포, 테스트&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;==&amp;gt; 방화벽만 뚤려있다면 1시간 미만&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="715.83" y="845.51" width="617.49" height="254.49" as="geometry" />
         </mxCell>
         <mxCell id="v60y8STWAejrvRIdtkfV-1" value="보안" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="1">
           <mxGeometry x="598.83" y="454.45" width="83" height="85" as="geometry" />
