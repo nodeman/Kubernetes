@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:57:20.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OdvUURtBcE8XeRInh7vw" version="20.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-19T07:04:31.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="slQNb1HUzoaF2vzJHKFx" version="20.2.3" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1298" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A2LmARMEres4ZetsoRki" name="모바일신분증(개발아키텍처)">
-    <mxGraphModel dx="1651" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-0" />
         <mxCell id="fsqqhYpUwCzIYPG1Alvv-1" parent="fsqqhYpUwCzIYPG1Alvv-0" />
@@ -935,7 +935,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KpaaaRLVSlxu5H7ykwV7" name="모바일신분증(운영)">
-    <mxGraphModel dx="1651" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-0" />
         <mxCell id="mYcQQDsavKgxlnwhHYIC-1" parent="mYcQQDsavKgxlnwhHYIC-0" />
@@ -970,10 +970,10 @@
           <mxGeometry x="465.00000000000006" y="58.04" width="79.91" height="79.91" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
-          <mxGeometry x="598.06" y="552.13" width="87.87" height="87.87" as="geometry" />
+          <mxGeometry x="449.68999999999994" y="536.13" width="87.87" height="87.87" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-12" value="금결원서버" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
-          <mxGeometry x="596.4299999999998" y="642" width="91.25" height="30" as="geometry" />
+          <mxGeometry x="448.05999999999983" y="626" width="91.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;fontSize=15;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
           <mxGeometry x="-190" y="274.5" width="70" height="110" as="geometry" />
@@ -990,7 +990,7 @@
             <mxPoint x="-29.85000000000099" y="173.0399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYcQQDsavKgxlnwhHYIC-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mYcQQDsavKgxlnwhHYIC-1" source="mYcQQDsavKgxlnwhHYIC-3" target="mYcQQDsavKgxlnwhHYIC-11" edge="1">
+        <mxCell id="mYcQQDsavKgxlnwhHYIC-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mYcQQDsavKgxlnwhHYIC-1" source="GBo9ul4nAq6jNVCYu-sd-4" target="mYcQQDsavKgxlnwhHYIC-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="500" as="sourcePoint" />
             <mxPoint x="715.7999999999989" y="337.52999999999986" as="targetPoint" />
@@ -1030,10 +1030,10 @@
           <mxGeometry x="253.5" y="267.36" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-28" value="203.81.8.150" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
-          <mxGeometry x="582.3699999999999" y="581.0699999999999" width="125" height="30" as="geometry" />
+          <mxGeometry x="433.9999999999999" y="565.0699999999999" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-29" value="18888" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
-          <mxGeometry x="639.4799999999998" y="530" width="50" height="15" as="geometry" />
+          <mxGeometry x="491.1099999999998" y="514" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="mYcQQDsavKgxlnwhHYIC-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;스마트창구&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" parent="mYcQQDsavKgxlnwhHYIC-1" vertex="1">
           <mxGeometry x="-25.25" y="20.000000000000007" width="110" height="30" as="geometry" />
@@ -1200,7 +1200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gr3LNi2G5RonyGTQasHv" name="전자문서지갑(개발)">
-    <mxGraphModel dx="1651" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7gq9AphBpjyg1umHl6LO-0" />
         <mxCell id="7gq9AphBpjyg1umHl6LO-1" parent="7gq9AphBpjyg1umHl6LO-0" />
