@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T08:58:00.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TWcOxmpqR1tRpHQSwPpP" version="20.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-19T08:58:41.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ItOKwC_zYpu8-r5FvvPs" version="20.2.3" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1298" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1757,7 +1757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PsqL2mPmPeNCKifc8PI3" name="GitLab 아키텍처">
-    <mxGraphModel dx="1454" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2118,7 +2118,7 @@
           <mxGeometry x="562.1099999999999" y="207.43" width="170.81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdkHlnS4z8hgSfdhY3lJ-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Quicksand;&quot;&gt;관리화면 접속&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Git Push, Git Pull&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="520.59" y="759.9999999999999" width="140" height="20" as="geometry" />
+          <mxGeometry x="524.59" y="759.9999999999999" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdkHlnS4z8hgSfdhY3lJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" edge="1" parent="1" source="LdkHlnS4z8hgSfdhY3lJ-1" target="LdkHlnS4z8hgSfdhY3lJ-1">
           <mxGeometry relative="1" as="geometry" />
