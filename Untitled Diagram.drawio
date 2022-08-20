@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T15:50:29.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zOS8FQlEO1NGB2t8wnod" version="20.2.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-20T16:01:00.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="woC8TWnsuzrpiWnrfrpg" version="20.2.5" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="752" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2138,6 +2138,9 @@
         </mxCell>
         <mxCell id="R2faWX9a-9VHg5P9IyHf-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png;" vertex="1" parent="1">
           <mxGeometry x="924.61" y="669.63" width="66.51" height="57.81" as="geometry" />
+        </mxCell>
+        <mxCell id="P43zMNLX54VvMAr9gy8m-1" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;PT&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. yarn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. heath check, version check&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="260.1" width="330" height="219.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
