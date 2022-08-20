@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T16:48:49.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KljRX_OvQw_cNgY9QN68" version="20.2.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-20T16:49:15.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mPxJaBVa41otSmw9Xkzp" version="20.2.5" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="752" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2102,7 +2102,7 @@
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-196" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" parent="1" vertex="1">
           <mxGeometry x="551.9199999999998" y="120" width="190" height="114.87" as="geometry" />
         </mxCell>
-        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-197" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Kubernetes&lt;br&gt;(loc)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
+        <mxCell id="W8eERUNY3Q4Qoi8dCW9J-197" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Kubernetes&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
           <mxGeometry x="561.5199999999999" y="167.43" width="170.81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LdkHlnS4z8hgSfdhY3lJ-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Quicksand;&quot;&gt;관리화면 접속&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Git Push, Git Pull&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
