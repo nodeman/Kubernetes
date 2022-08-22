@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T16:49:15.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mPxJaBVa41otSmw9Xkzp" version="20.2.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-22T00:37:09.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="MD6S-5ONhUm-eAlEHJaW" version="20.2.3" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
-    <mxGraphModel dx="752" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PNiSEAVqumczl3CK1zWQ-0" />
         <mxCell id="PNiSEAVqumczl3CK1zWQ-1" parent="PNiSEAVqumczl3CK1zWQ-0" />
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PRIDpDM041OYP2Ylkp4z" name="CI/CD">
-    <mxGraphModel dx="1579" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2281" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EuUX5kLOg7JwNG9CxY4a-0" />
         <mxCell id="EuUX5kLOg7JwNG9CxY4a-1" parent="EuUX5kLOg7JwNG9CxY4a-0" />
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="in38U6Dr_jpYil-cjB_f" name="Page-1">
-    <mxGraphModel dx="1896" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2281" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7C82fSo5p_dJwyQDE82B" name="Page-3">
-    <mxGraphModel dx="2377" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2281" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qielxEtc3-T6BIFznoN1-0" />
         <mxCell id="qielxEtc3-T6BIFznoN1-1" parent="qielxEtc3-T6BIFznoN1-0" />
@@ -1757,7 +1757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PsqL2mPmPeNCKifc8PI3" name="GitLab 아키텍처">
-    <mxGraphModel dx="1824" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2117,14 +2117,14 @@
         <mxCell id="v60y8STWAejrvRIdtkfV-1" value="보안" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" parent="1" vertex="1">
           <mxGeometry x="598.83" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="OF3_EkfZNpNNydbcahip-3" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Quicksand;strokeWidth=2;strokeColor=#177245;exitX=0.673;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF3_EkfZNpNNydbcahip-2" target="W8eERUNY3Q4Qoi8dCW9J-178">
+        <mxCell id="OF3_EkfZNpNNydbcahip-3" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Quicksand;strokeWidth=2;strokeColor=#177245;exitX=0.673;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OF3_EkfZNpNNydbcahip-2" target="W8eERUNY3Q4Qoi8dCW9J-178" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="783" y="485.70000000000005" as="sourcePoint" />
             <mxPoint x="918.1599999999999" y="407.5303653324015" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF3_EkfZNpNNydbcahip-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;gitlab runner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="OF3_EkfZNpNNydbcahip-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;gitlab runner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="690" y="300.8699999999999" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W8eERUNY3Q4Qoi8dCW9J-32" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Quicksand;strokeWidth=2;strokeColor=#177245;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W8eERUNY3Q4Qoi8dCW9J-103" target="W8eERUNY3Q4Qoi8dCW9J-179" edge="1">
@@ -2133,17 +2133,23 @@
             <mxPoint x="1010" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YvEX-aAAy2LVNlB9rR1V-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png;" vertex="1" parent="1">
+        <mxCell id="YvEX-aAAy2LVNlB9rR1V-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png;" parent="1" vertex="1">
           <mxGeometry x="925.13" y="339.23" width="66.51" height="57.81" as="geometry" />
         </mxCell>
-        <mxCell id="R2faWX9a-9VHg5P9IyHf-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png;" vertex="1" parent="1">
+        <mxCell id="R2faWX9a-9VHg5P9IyHf-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png;" parent="1" vertex="1">
           <mxGeometry x="924.61" y="669.63" width="66.51" height="57.81" as="geometry" />
         </mxCell>
-        <mxCell id="P43zMNLX54VvMAr9gy8m-1" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;PT - npm, yarn 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. yarn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. heath check&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; version check&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="P43zMNLX54VvMAr9gy8m-1" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;PT - npm, yarn 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. yarn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. heath check&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; version check&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="827" y="-19.27" width="230" height="246.7" as="geometry" />
         </mxCell>
-        <mxCell id="P43zMNLX54VvMAr9gy8m-4" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;BT - maven, gradle 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. mvn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. was time update&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="P43zMNLX54VvMAr9gy8m-4" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;BT - maven, gradle 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. mvn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. was time update&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1076.62" y="-19.27" width="273.38" height="246.7" as="geometry" />
+        </mxCell>
+        <mxCell id="CnY1uDAl7pwdMtZCDyAZ-1" value="&lt;div style=&quot;font-size: 16px&quot;&gt;CORS&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="980.0000000000001" y="353.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CnY1uDAl7pwdMtZCDyAZ-2" value="&lt;div style=&quot;font-size: 16px&quot;&gt;CORS&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="977.0000000000001" y="648.62" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
