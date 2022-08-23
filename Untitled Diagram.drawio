@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T05:03:31.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mSCCeBKWaW-0U13YZF1n" version="20.2.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-08-23T05:03:39.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dIfyz_IJhHESVupezt4E" version="20.2.5" type="github" pages="10">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1454" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2108,7 +2108,7 @@
           <mxGeometry x="237" y="610" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s0vfnBa3WCwku2wQmBmt-5" value="도커이미지&lt;br&gt;저장소" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="367" y="616.12" width="130" height="20" as="geometry" />
+          <mxGeometry x="367" y="610.12" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s0vfnBa3WCwku2wQmBmt-6" value="maven&lt;br&gt;npm&lt;br&gt;helm&lt;br&gt;PyPi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
           <mxGeometry x="499.09000000000003" y="613.12" width="130" height="20" as="geometry" />
