@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:07:24.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="L04SnZK1rA8GX9KwZnGH" version="20.2.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-08-24T00:43:00.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fj3bpju_aY1s_t-C_lm6" version="20.2.5" type="github" pages="10">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1454" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PRIDpDM041OYP2Ylkp4z" name="CI/CD">
-    <mxGraphModel dx="2281" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EuUX5kLOg7JwNG9CxY4a-0" />
         <mxCell id="EuUX5kLOg7JwNG9CxY4a-1" parent="EuUX5kLOg7JwNG9CxY4a-0" />
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="in38U6Dr_jpYil-cjB_f" name="클라우드 교육">
-    <mxGraphModel dx="2281" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1290,7 +1290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="24lE36rjUEqDT233nzF-" name="MSA 아키텍처">
-    <mxGraphModel dx="1454" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2111,7 +2111,7 @@
           <mxGeometry x="367" y="610.12" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s0vfnBa3WCwku2wQmBmt-6" value="Helm&lt;br&gt;maven&lt;br&gt;npm&lt;br&gt;PyPi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="499.09000000000003" y="613.12" width="130" height="20" as="geometry" />
+          <mxGeometry x="499.09000000000003" y="612.12" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s0vfnBa3WCwku2wQmBmt-11" value="Terraform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="1">
           <mxGeometry x="632.5899999999999" y="610" width="130" height="20" as="geometry" />
