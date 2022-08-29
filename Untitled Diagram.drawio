@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T01:09:23.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="18lNaucsnsecqXbps0E4" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-29T01:10:22.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="F-9XfqjttP4DFfbzGMoR" version="20.2.7" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1425" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1463,10 +1463,10 @@
           <mxGeometry x="457.5" y="374.5" width="70" height="31.55" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-10" value="4 인스턴스" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="694.74" y="268.37" width="55.26" height="21.61" as="geometry" />
+          <mxGeometry x="696.74" y="268.37" width="55.26" height="21.61" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-11" value="4 인스턴스" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="694.74" y="422.53" width="55.26" height="21.61" as="geometry" />
+          <mxGeometry x="697.74" y="413.53" width="55.26" height="21.61" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-43" target="gqvNZhGMYWLjq_8Mt3pP-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
