@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T00:43:32.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Ny7yDjMDVVAwJXyfSAGb" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-29T01:04:23.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fawyXRS7ssN3ZDqsEkMH" version="20.2.7" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1425" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1290,12 +1290,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4zULKJTNogUETHPR9KU_" name="전자문서지갑(운영)">
-    <mxGraphModel dx="2567" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2340" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gqvNZhGMYWLjq_8Mt3pP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="52.63" y="-5.63" width="987.37" height="555.63" as="geometry" />
+          <mxGeometry x="52.63" y="-5.63" width="987.37" height="625.63" as="geometry" />
         </mxCell>
         <mxCell id="gqvNZhGMYWLjq_8Mt3pP-3" value="BT1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="645.41" y="219.84" width="40" height="30" as="geometry" />
@@ -1373,7 +1373,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gqvNZhGMYWLjq_8Mt3pP-47" value="18180" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="585.74" y="271.36" width="50" height="21.61" as="geometry" />
+          <mxGeometry x="586.08" y="305.89" width="50" height="21.61" as="geometry" />
         </mxCell>
         <mxCell id="gqvNZhGMYWLjq_8Mt3pP-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=0.945;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-57" target="gqvNZhGMYWLjq_8Mt3pP-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1473,6 +1473,81 @@
             <mxPoint x="704.7400000000007" y="299.98" as="sourcePoint" />
             <mxPoint x="858" y="363" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9933;exitX=0.655;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-10" target="gqvNZhGMYWLjq_8Mt3pP-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="504" y="310" />
+              <mxPoint x="550" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-17" value="1. 1Q는 L4 IP를 타겟하여 BT서버에 SDK요청" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="127.87" width="242.52" height="31.55" as="geometry" />
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9933;strokeWidth=2;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gqvNZhGMYWLjq_8Mt3pP-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="130" as="sourcePoint" />
+            <mxPoint x="646.1495024673923" y="291.18796534707644" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="270" />
+              <mxPoint x="514" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-50" target="gqvNZhGMYWLjq_8Mt3pP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="501.55" y="580" as="sourcePoint" />
+            <mxPoint x="645.4144563771868" y="848.4244563771867" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="510" />
+              <mxPoint x="390" y="530" />
+              <mxPoint x="250" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-21" value="2. BT는 L4 IP를 타겟하여 PT서버에 SDK요청&lt;br&gt;&lt;br&gt;http://10.186.17.20:443/*" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260" y="532" width="242.52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-44" target="gqvNZhGMYWLjq_8Mt3pP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645.7399999999989" y="438.4500000000003" as="sourcePoint" />
+            <mxPoint x="208.83823076754334" y="388.0538325024754" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="470" />
+              <mxPoint x="410" y="520" />
+              <mxPoint x="260" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.99;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-5" target="gqvNZhGMYWLjq_8Mt3pP-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298.2505581077872" y="242.95944189221274" as="sourcePoint" />
+            <mxPoint x="-146.79720764427015" y="320.73375792913595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="240" />
+              <mxPoint x="190" y="330" />
+              <mxPoint x="140" y="342" />
+              <mxPoint x="-10" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="216.94543648262288" y="343.554563517378" as="sourcePoint" />
+            <mxPoint x="-180" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="430" />
+              <mxPoint x="200" y="360" />
+              <mxPoint x="170" y="360" />
+              <mxPoint y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-25" value="3. PT를 거쳐 L4 -&amp;gt; 방화벽의 공인 IP로 나감" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="52.62999999999999" y="259.17" width="242.52" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
