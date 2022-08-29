@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T01:04:23.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fawyXRS7ssN3ZDqsEkMH" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-29T01:04:59.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-WU8T9pOXc7vNKv7ssCu" version="20.2.7" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1425" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1522,10 +1522,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-SuiLT6fyAF0N9q6N65i-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.99;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-5" target="gqvNZhGMYWLjq_8Mt3pP-66">
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="298.2505581077872" y="242.95944189221274" as="sourcePoint" />
-            <mxPoint x="-146.79720764427015" y="320.73375792913595" as="targetPoint" />
+            <mxPoint x="-180" y="342" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="240" />
               <mxPoint x="190" y="330" />
