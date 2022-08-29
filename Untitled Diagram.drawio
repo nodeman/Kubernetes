@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T01:47:07.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SIJ1j719CGbZfK01H7cT" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-29T04:26:57.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1mVXQmm1x1vqoIcN8FEc" version="20.2.7" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
-    <mxGraphModel dx="1740" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PNiSEAVqumczl3CK1zWQ-0" />
         <mxCell id="PNiSEAVqumczl3CK1zWQ-1" parent="PNiSEAVqumczl3CK1zWQ-0" />
@@ -1290,7 +1290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4zULKJTNogUETHPR9KU_" name="전자문서지갑(운영)">
-    <mxGraphModel dx="2567" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1451,7 +1451,7 @@
           <mxGeometry x="-90" y="357.9" width="120" height="31.55" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-4" value="10.186.17.20" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380.5" width="120" height="31.55" as="geometry" />
+          <mxGeometry x="130" y="389.45" width="120" height="31.55" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-5" value="BT2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="645.41" y="359.45000000000005" width="40" height="30" as="geometry" />
@@ -1529,8 +1529,7 @@
             <mxPoint x="-180" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="240" />
-              <mxPoint x="190" y="330" />
-              <mxPoint x="140" y="350" />
+              <mxPoint x="140" y="330" />
               <mxPoint x="-10" y="350" />
             </Array>
           </mxGeometry>
@@ -1541,14 +1540,13 @@
             <mxPoint x="-180" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="430" />
-              <mxPoint x="200" y="360" />
-              <mxPoint x="170" y="360" />
-              <mxPoint y="360" />
+              <mxPoint x="188" y="390" />
+              <mxPoint x="10" y="353" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-25" value="3. PT를 거쳐 L4 -&amp;gt; 방화벽의 공인 IP로 나감" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="52.62999999999999" y="259.17" width="242.52" height="40" as="geometry" />
+          <mxGeometry x="52.63" y="259.17" width="227.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-26" value="18543" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="265.08000000000004" y="303.89" width="50" height="21.61" as="geometry" />
