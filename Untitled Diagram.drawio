@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T01:10:54.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Jxd30lvh5srK9dvrXlD2" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-29T01:18:10.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZbWerJBNmCw25ruBW54b" version="20.2.7" type="github" pages="11">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1425" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1474,7 +1474,7 @@
             <mxPoint x="858" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-SuiLT6fyAF0N9q6N65i-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9933;exitX=0.655;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-10" target="gqvNZhGMYWLjq_8Mt3pP-44">
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9933;exitX=0.655;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-10" target="gqvNZhGMYWLjq_8Mt3pP-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="160" as="sourcePoint" />
             <mxPoint x="630" y="280" as="targetPoint" />
@@ -1500,25 +1500,26 @@
         <mxCell id="-SuiLT6fyAF0N9q6N65i-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-50" target="gqvNZhGMYWLjq_8Mt3pP-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="501.55" y="580" as="sourcePoint" />
-            <mxPoint x="645.4144563771868" y="848.4244563771867" as="targetPoint" />
+            <mxPoint x="210" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="510" />
+              <mxPoint x="540" y="500" />
               <mxPoint x="390" y="530" />
-              <mxPoint x="250" y="490" />
+              <mxPoint x="320" y="520" />
+              <mxPoint x="260" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-SuiLT6fyAF0N9q6N65i-21" value="2. BT는 L4 IP를 타겟하여 PT서버에 SDK요청&lt;br&gt;&lt;br&gt;http://10.186.17.20:443/*" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="260" y="532" width="242.52" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-SuiLT6fyAF0N9q6N65i-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-44" target="gqvNZhGMYWLjq_8Mt3pP-5">
+        <mxCell id="-SuiLT6fyAF0N9q6N65i-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqvNZhGMYWLjq_8Mt3pP-44" target="gqvNZhGMYWLjq_8Mt3pP-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645.7399999999989" y="438.4500000000003" as="sourcePoint" />
             <mxPoint x="208.83823076754334" y="388.0538325024754" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="470" />
               <mxPoint x="410" y="520" />
-              <mxPoint x="260" y="500" />
+              <mxPoint x="270" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
