@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T07:48:00.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DSm4nNvCIIWDISpzmUzA" version="20.3.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-07T07:48:26.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JgupULXivqSw96BSRq9D" version="20.3.3" type="github" pages="13">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1114" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2524,8 +2524,8 @@
         <mxCell id="S-ByQXmXf2TXNV4BSApF-32" value="BT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="517.6" y="16" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S-ByQXmXf2TXNV4BSApF-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;http://10.60.4.126:18380/mis/*&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="546.0399999999998" y="180" width="192.21" height="16.62" as="geometry" />
+        <mxCell id="S-ByQXmXf2TXNV4BSApF-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;http://10.60.4.126:18280/mis/*&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="567.4199999999998" y="190" width="192.21" height="16.62" as="geometry" />
         </mxCell>
         <mxCell id="S-ByQXmXf2TXNV4BSApF-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;18280&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="451.03" y="362.64" width="40" height="18.5" as="geometry" />
