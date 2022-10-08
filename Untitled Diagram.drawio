@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T15:08:17.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="s-K4HewIZ3RNVmpWyWQn" version="20.3.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-08T15:08:45.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="otldYVY-Mq_4_55lBUZc" version="20.3.0" type="github" pages="13">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="776" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2548,9 +2548,9 @@
             <mxPoint x="902.69" y="339.9950000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q3VHn4hld5GfvfGV3Aan-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0.389;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-8" edge="1">
+        <mxCell id="Q3VHn4hld5GfvfGV3Aan-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0.381;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="543.3005581077945" y="140.38944189220555" as="sourcePoint" />
+            <mxPoint x="525" y="160" as="sourcePoint" />
             <mxPoint x="325.58000000000004" y="362.64" as="targetPoint" />
             <Array as="points">
               <mxPoint x="525" y="310" />
