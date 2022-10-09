@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T15:58:37.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="iVJNuDMq0II4a19uQf9k" version="20.3.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-10-09T15:59:43.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Xv-EcBp-nBuqVMe02Iy2" version="20.3.0" type="github" pages="14">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="776" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2908,6 +2908,9 @@
         </mxCell>
         <mxCell id="XMjChogFBZoj_O_0cn5t-99" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;merge&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="2081" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XMjChogFBZoj_O_0cn5t-100" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;CI/CD ?&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="1755" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
