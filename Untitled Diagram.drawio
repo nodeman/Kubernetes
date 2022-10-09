@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T14:56:31.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="vVjpza4fPgUMwEfhRAv0" version="20.3.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-09T14:57:34.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="eWFBs_GmGgFaHBfAQLf6" version="20.3.0" type="github" pages="13">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="776" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2450,7 +2450,7 @@
           <mxGeometry x="40" y="-20" width="930" height="570" as="geometry" />
         </mxCell>
         <mxCell id="S-ByQXmXf2TXNV4BSApF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="268.38" width="186.77" height="231.62" as="geometry" />
+          <mxGeometry x="445" y="270" width="186.77" height="230" as="geometry" />
         </mxCell>
         <mxCell id="S-ByQXmXf2TXNV4BSApF-3" value="BT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="566.27" y="240" width="40" height="30" as="geometry" />
@@ -2497,10 +2497,10 @@
         <mxCell id="S-ByQXmXf2TXNV4BSApF-23" value="WebLogic&lt;br&gt;Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="525.63" y="314.51" width="62.12" height="62.12" as="geometry" />
         </mxCell>
-        <mxCell id="S-ByQXmXf2TXNV4BSApF-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-2" target="S-ByQXmXf2TXNV4BSApF-8" edge="1">
+        <mxCell id="S-ByQXmXf2TXNV4BSApF-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550.24" y="283.05" as="sourcePoint" />
-            <mxPoint x="550.2770800000001" y="210.00430999999986" as="targetPoint" />
+            <mxPoint x="538" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-ByQXmXf2TXNV4BSApF-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=21;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-23" target="S-ByQXmXf2TXNV4BSApF-19" edge="1">
