@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T14:55:18.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="algRpH2PP4b6ri4yH9Cj" version="20.3.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-09T14:56:31.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="vVjpza4fPgUMwEfhRAv0" version="20.3.0" type="github" pages="13">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="776" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2548,15 +2548,15 @@
             <mxPoint x="902.69" y="339.9950000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q3VHn4hld5GfvfGV3Aan-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;exitX=0.381;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="S-ByQXmXf2TXNV4BSApF-8" edge="1">
+        <mxCell id="Q3VHn4hld5GfvfGV3Aan-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525" y="160" as="sourcePoint" />
-            <mxPoint x="325.58000000000004" y="362.64" as="targetPoint" />
+            <mxPoint x="526" y="160" as="sourcePoint" />
+            <mxPoint x="326.21000000000004" y="365.64" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="525" y="310" />
-              <mxPoint x="520" y="340" />
-              <mxPoint x="500" y="360" />
-              <mxPoint x="405.58000000000004" y="362.64" />
+              <mxPoint x="525.63" y="313" />
+              <mxPoint x="520.63" y="343" />
+              <mxPoint x="500.63" y="363" />
+              <mxPoint x="406.21000000000004" y="365.64" />
             </Array>
           </mxGeometry>
         </mxCell>
