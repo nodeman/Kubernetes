@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T01:51:26.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vJ-x8wAsREWhP4Ctsnt2" version="20.3.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-10-11T01:56:05.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oipYDEPg8yYG5X-ylQ6u" version="20.3.3" type="github" pages="14">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="826" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1973,7 +1973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PsqL2mPmPeNCKifc8PI3" name="GitLab 아키텍처">
-    <mxGraphModel dx="959" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="2721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2391,8 +2391,11 @@
         <mxCell id="vsnd_oTz0hhJVq49JB9l-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=0;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
           <mxGeometry x="722.78" y="494" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gQSFq3YcYe35mRiAYGmi-1" value="&lt;div style=&quot;font-size: 16px&quot;&gt;10.60.4.121&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" parent="1" vertex="1">
+        <mxCell id="gQSFq3YcYe35mRiAYGmi-1" value="&lt;div style=&quot;font-size: 16px&quot;&gt;10.60.4.126&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" parent="1" vertex="1">
           <mxGeometry x="1046.01" y="742.77" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tklE4SjxEUco96DMMO6v-1" value="&lt;div style=&quot;font-size: 16px&quot;&gt;10.60.5.41&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="1046.01" y="415" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
