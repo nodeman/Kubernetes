@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T08:42:28.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oox6fv0lDXTHWodyRpY3" version="20.3.3" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-10-13T08:43:14.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zOFkQyNjb5HDTwTRcn-f" version="20.3.3" type="github" pages="15">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="826" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2941,7 +2941,7 @@
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-3" value="supports()&lt;br&gt;return true?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="260" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-4" value="beforeBodyRead()&lt;br&gt;(헤더로그출력, Request 정보저장)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-4" value="beforeBodyRead()&lt;br&gt;헤더로그출력, &lt;br&gt;Request, request-url-type 정보저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="200" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
