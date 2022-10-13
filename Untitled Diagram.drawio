@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:18:12.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BWYn-MNlozpIb6qm4fVV" version="20.3.3" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-10-13T08:42:28.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oox6fv0lDXTHWodyRpY3" version="20.3.3" type="github" pages="15">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="826" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2919,12 +2919,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4N-Lyli53OiVLH6rk8EY" name="Spring아키텍처">
-    <mxGraphModel dx="1293" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1390" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y8F8TfqtuC3yW8HXe3F8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-20" width="1350" height="1040" as="geometry" />
+          <mxGeometry x="-380" y="-160" width="1350" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="110" width="270" height="280" as="geometry" />
@@ -3091,6 +3091,18 @@
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;enableLoggingRequestDetails=&#39;false&#39;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="870" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-110" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RequestContextHolder&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="-140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-65" value="HttpServletRequest" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="359" y="-80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;REQUEST_URL_TYPE&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="359" y="-30" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
