@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T05:22:13.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="I0DnjRHZNwWp245W5guu" version="20.4.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-10-25T05:23:17.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="P913Zkwf2xJT0d8rd7jJ" version="20.4.1" type="github" pages="15">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3063,7 +3063,7 @@
             <mxPoint x="341.72" y="849.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-52" value="Json Body&lt;br&gt;데이터?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-52" value="Body&lt;br&gt;데이터?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-60" y="230" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="WaFMA7C3lKwTXHK0sT9O-52" target="WaFMA7C3lKwTXHK0sT9O-1" edge="1">
