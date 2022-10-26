@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:08:58.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="c1xUAl17uAJzIUNDxBEm" version="20.4.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-10-26T09:09:38.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZirolulaFlk080dnUpqQ" version="20.4.1" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3298,6 +3298,12 @@
         </mxCell>
         <mxCell id="y3jqHzZkkde2AnWTO7t1-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Maven Build&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="762" y="774" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y3jqHzZkkde2AnWTO7t1-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;18080&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="570.23" y="590" width="70.5" height="15.25" as="geometry" />
+        </mxCell>
+        <mxCell id="y3jqHzZkkde2AnWTO7t1-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;28080&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="798.6600000000001" y="590" width="70.5" height="15.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
