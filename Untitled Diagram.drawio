@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:08:11.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3C4Ol0uab2ABc2a9BUi9" version="20.4.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-10-26T09:08:42.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eQLsmYkkW0J6GjM4qZfC" version="20.4.1" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3253,8 +3253,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3jqHzZkkde2AnWTO7t1-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SpringBoot&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="1">
-          <mxGeometry x="853.41" y="546" width="104.59" height="20" as="geometry" />
+        <mxCell id="y3jqHzZkkde2AnWTO7t1-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SpringBoot&lt;br&gt;Tomcat&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="853.41" y="541" width="104.59" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y3jqHzZkkde2AnWTO7t1-5" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;fontColor=#333333;strokeColor=#177245;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cv2Y8krxuY0MPvDuzr9N-2" target="cv2Y8krxuY0MPvDuzr9N-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
