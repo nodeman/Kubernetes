@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T06:43:50.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EgB-9DeqdTZWNbI3aJX0" version="20.4.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-10-27T06:59:17.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8lrbCLe6JFWpX58v13Ug" version="20.4.1" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2924,7 +2924,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y8F8TfqtuC3yW8HXe3F8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-160" width="1350" height="1180" as="geometry" />
+          <mxGeometry x="-380" y="-140" width="1350" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="110" width="270" height="300" as="geometry" />
@@ -2944,14 +2944,14 @@
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-4" value="beforeBodyRead()&lt;br&gt;헤더로그출력, &lt;br&gt;Request 저장, request-url-type 정보저장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="200" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()&lt;br&gt;&amp;nbsp;요청방향 URL에 따른 &lt;br&gt;IB_REST, OB_REST, OB_EAI? 분기를&lt;br&gt;=&amp;gt; AdapterServiceImpl 에 구현" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="320" width="225" height="80" as="geometry" />
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()&lt;br&gt;&amp;nbsp;요청방향 URL에 따른 &lt;br&gt;IB_REST, OB_REST, OB_EAI? 분기" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="320" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;전처리: PreProcessAdapter&lt;br&gt;(RequestBodyAdviceAdapter)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;전처리: PreProcessAdapter&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(RequestBodyAdviceAdapter)&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="70" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="190" width="170" height="280" as="geometry" />
+          <mxGeometry x="440" y="355" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RestController&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="255" width="210" height="30" as="geometry" />
@@ -2962,8 +2962,10 @@
             <mxPoint x="500" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="425" />
-              <mxPoint x="280" y="440" />
-              <mxPoint x="350" y="440" />
+              <mxPoint x="240" y="450" />
+              <mxPoint x="300" y="450" />
+              <mxPoint x="350" y="450" />
+              <mxPoint x="380" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2994,19 +2996,19 @@
             <mxPoint x="70" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=-0.006;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.918;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WaFMA7C3lKwTXHK0sT9O-27" target="WaFMA7C3lKwTXHK0sT9O-30" edge="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.918;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WaFMA7C3lKwTXHK0sT9O-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="480" as="sourcePoint" />
-            <mxPoint x="690" y="484" as="targetPoint" />
+            <mxPoint x="10" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="285" width="170" height="280" as="geometry" />
+          <mxGeometry x="680" y="286" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Yes&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="340" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;No&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;No?&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-33" value="URL Match?&lt;br&gt;or&amp;nbsp;&lt;br&gt;Method Match?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
@@ -3112,6 +3114,24 @@
               <mxPoint x="400" y="190" />
               <mxPoint x="450" y="140" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAziM-SSww-vk6hgHBxL-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;AdapterServiceImpl&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAziM-SSww-vk6hgHBxL-3" value="preAdapterIbRest()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="374" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAziM-SSww-vk6hgHBxL-4" value="preAdapterObRest()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="425" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAziM-SSww-vk6hgHBxL-5" value="preAdapterObEai()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="475" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAziM-SSww-vk6hgHBxL-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.991;exitY=0.537;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WaFMA7C3lKwTXHK0sT9O-13" target="WaFMA7C3lKwTXHK0sT9O-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.9956282617708" y="469.1741503398813" as="sourcePoint" />
+            <mxPoint x="690" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
