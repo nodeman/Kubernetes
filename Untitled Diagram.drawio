@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T06:31:09.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1fhP0girFZt3lxcV6Sy4" version="20.4.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-10-27T06:43:50.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EgB-9DeqdTZWNbI3aJX0" version="20.4.1" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2944,7 +2944,7 @@
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-4" value="beforeBodyRead()&lt;br&gt;헤더로그출력, &lt;br&gt;Request 저장, request-url-type 정보저장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="200" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()&lt;br&gt;&amp;nbsp;요청URL에 따른 &lt;br&gt;IB_REST, OB_REST, OB_EAI? 분기&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()&lt;br&gt;&amp;nbsp;요청방향 URL에 따른 &lt;br&gt;IB_REST, OB_REST, OB_EAI? 분기를&lt;br&gt;=&amp;gt; AdapterServiceImpl 에 구현" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="320" width="225" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;전처리: PreProcessAdapter&lt;br&gt;(RequestBodyAdviceAdapter)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
