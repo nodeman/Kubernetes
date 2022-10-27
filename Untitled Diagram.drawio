@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T00:31:16.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tBRNvZldEk9KNlqPBwvR" version="20.4.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-10-27T06:31:09.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1fhP0girFZt3lxcV6Sy4" version="20.4.1" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1137" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2919,7 +2919,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4N-Lyli53OiVLH6rk8EY" name="Spring아키텍처">
-    <mxGraphModel dx="2069" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2927,7 +2927,7 @@
           <mxGeometry x="-380" y="-160" width="1350" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="110" width="270" height="280" as="geometry" />
+          <mxGeometry x="100" y="110" width="270" height="300" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WaFMA7C3lKwTXHK0sT9O-2" target="WaFMA7C3lKwTXHK0sT9O-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2944,8 +2944,8 @@
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-4" value="beforeBodyRead()&lt;br&gt;헤더로그출력, &lt;br&gt;Request 저장, request-url-type 정보저장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="200" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="320" width="225" height="40" as="geometry" />
+        <mxCell id="WaFMA7C3lKwTXHK0sT9O-6" value="afterBodyRead()&lt;br&gt;&amp;nbsp;요청URL에 따른 &lt;br&gt;IB_REST, OB_REST, OB_EAI? 분기&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="320" width="225" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WaFMA7C3lKwTXHK0sT9O-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;전처리: PreProcessAdapter&lt;br&gt;(RequestBodyAdviceAdapter)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="70" width="210" height="30" as="geometry" />
@@ -3118,7 +3118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o9HjAqeT99EhGU4D7fax" name="보안팀개발 아키텍처">
-    <mxGraphModel dx="1129" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
