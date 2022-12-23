@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T00:18:23.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gghI6eYt9WjFY3hJlVN4" version="20.7.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-12-23T00:18:46.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FJRJigGCowg_uq4795DP" version="20.7.4" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1076" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3322,7 +3322,7 @@
           <mxGeometry x="874.7700000000002" y="460" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-115" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;* Git 프로젝트 저장소&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[1] GRS 그룹&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. GRS_Manage : 프로젝트관리 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. GRS_API&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : API 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. GRS_WEB&amp;nbsp; &amp;nbsp; &amp;nbsp; : WEB 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4. GRS_BATCH&amp;nbsp; : BATCH 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5. GRS_DOC&amp;nbsp; &amp;nbsp; &amp;nbsp; : 문서 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[2] Team-Security&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Dev-Server-Tools : 서버 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Dev-Client-Tools : 로컬 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. Gitlab-Manage : Gitlab 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="880.78" y="603.62" width="300" height="420" as="geometry" />
+          <mxGeometry x="842.62" y="573" width="300" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
