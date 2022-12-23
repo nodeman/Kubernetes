@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T00:18:46.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FJRJigGCowg_uq4795DP" version="20.7.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-12-23T00:19:31.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VPDoqkz22qGg5RMfIvCB" version="20.7.4" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1076" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2978,7 +2978,7 @@
         <mxCell id="X0x_3bXx5Oein4YClwOV-6" value="Agile 도구&lt;br&gt;(Issue, MR)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontFamily=Quicksand;fontSize=13;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="232.00000000000006" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-7" value="&lt;div style=&quot;font-size: 16px&quot;&gt;SpringBoot&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;실행파일&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+        <mxCell id="X0x_3bXx5Oein4YClwOV-7" value="&lt;div style=&quot;font-size: 16px&quot;&gt;SpringBoot&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;서버실행파일&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
           <mxGeometry x="1046.78" y="372" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;GitLab Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="1">
