@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T04:20:48.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ktILT8nfCjFuwdpwHk6V" version="21.1.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-04-19T04:21:02.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mZNIPoFaJ6eNFeCJwC53" version="21.1.8" type="github" pages="16">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1449" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bMl_MYjPD_qqN4Ij4EHf" name="PinPoint 아키텍처">
-    <mxGraphModel dx="1758" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Vom29x8_ZR8pG0lk6V2V-0" />
         <mxCell id="Vom29x8_ZR8pG0lk6V2V-1" parent="Vom29x8_ZR8pG0lk6V2V-0" />
