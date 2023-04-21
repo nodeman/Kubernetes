@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T13:08:55.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_qZ70KzmYwcW1-A0KqEz" version="21.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-21T13:12:29.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pPOZkxJPwbh-azhXkwki" version="21.2.1" type="github" pages="18">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1686" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3393,7 +3393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="경영지원_ESG_아키텍처" id="ceOK5MxmSSufrCb6brDJ">
-    <mxGraphModel dx="1179" dy="946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KT7zESBCK3nf0_K53xVx-0" />
         <mxCell id="KT7zESBCK3nf0_K53xVx-1" parent="KT7zESBCK3nf0_K53xVx-0" />
@@ -3522,21 +3522,21 @@
           <mxGeometry x="891.48" y="613.38" width="111.8" height="100.62" as="geometry" />
         </mxCell>
         <mxCell id="KT7zESBCK3nf0_K53xVx-64" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#177245;strokeWidth=2;fillColor=#4DB33D;opacity=80;" vertex="1" parent="KT7zESBCK3nf0_K53xVx-1">
-          <mxGeometry x="834.54" y="234" width="153.73" height="110" as="geometry" />
+          <mxGeometry x="1322" y="525.5" width="153.73" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KT7zESBCK3nf0_K53xVx-65" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;EAI&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="KT7zESBCK3nf0_K53xVx-1">
-          <mxGeometry x="826.0000000000002" y="279" width="170.81" height="20" as="geometry" />
+          <mxGeometry x="1316.0000000000002" y="570.38" width="170.81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KT7zESBCK3nf0_K53xVx-67" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;fontColor=#333333;strokeColor=#177245;strokeWidth=2;exitX=0.404;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KT7zESBCK3nf0_K53xVx-1">
+        <mxCell id="KT7zESBCK3nf0_K53xVx-67" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;fontColor=#333333;strokeColor=#177245;strokeWidth=2;" edge="1" parent="KT7zESBCK3nf0_K53xVx-1" source="KT7zESBCK3nf0_K53xVx-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="906.9469200000003" y="344" as="sourcePoint" />
-            <mxPoint x="907" y="443" as="targetPoint" />
+            <mxPoint x="1291.9969200000003" y="526" as="sourcePoint" />
+            <mxPoint x="1234" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT7zESBCK3nf0_K53xVx-70" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;fontColor=#333333;strokeColor=#177245;strokeWidth=2;" edge="1" parent="KT7zESBCK3nf0_K53xVx-1" source="6j0CHEW_qmHjhQSHUJsB-24" target="KT7zESBCK3nf0_K53xVx-65">
+        <mxCell id="KT7zESBCK3nf0_K53xVx-70" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;fontColor=#333333;strokeColor=#177245;strokeWidth=2;" edge="1" parent="KT7zESBCK3nf0_K53xVx-1" source="6j0CHEW_qmHjhQSHUJsB-24" target="KT7zESBCK3nf0_K53xVx-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1121.93" y="259" as="sourcePoint" />
-            <mxPoint x="1006.3700000000001" y="311.5" as="targetPoint" />
+            <mxPoint x="1633.93" y="547.5" as="sourcePoint" />
+            <mxPoint x="1518.3700000000001" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6j0CHEW_qmHjhQSHUJsB-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg;" vertex="1" parent="KT7zESBCK3nf0_K53xVx-1">
@@ -3573,7 +3573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6j0CHEW_qmHjhQSHUJsB-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;ESG 업무채널&lt;br&gt;데이터 연계&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#177245;" vertex="1" parent="KT7zESBCK3nf0_K53xVx-1">
-          <mxGeometry x="1141.5" y="237" width="150.43" height="100" as="geometry" />
+          <mxGeometry x="1579.5" y="528.5" width="150.43" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mbAde8BsGzsd_QCQ1DBj-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Quicksand;fontSize=13;fontStyle=1;labelBackgroundColor=none;strokeColor=#177245;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KT7zESBCK3nf0_K53xVx-1" source="mbAde8BsGzsd_QCQ1DBj-2">
           <mxGeometry y="-10" relative="1" as="geometry">
