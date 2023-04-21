@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T13:12:29.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pPOZkxJPwbh-azhXkwki" version="21.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-21T13:18:02.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nMdA2AfUB_oHlZMbtJyQ" version="21.2.1" type="github" pages="18">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1686" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2017,7 +2017,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TJpuDPSIiF2yr9Gwwvvi" name="MIS개발 아키텍처">
-    <mxGraphModel dx="1686" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3021,7 +3021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ES73GyuN0pgSXkgd8dDw" name="보안팀 Gitlab">
-    <mxGraphModel dx="1579" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3311,18 +3311,6 @@
         <mxCell id="X0x_3bXx5Oein4YClwOV-79" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;개발서버&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
           <mxGeometry x="925.37" y="536.5" width="170.81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" parent="1" vertex="1">
-          <mxGeometry x="268.09000000000003" y="120" width="190" height="114.87" as="geometry" />
-        </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-82" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Jira, Email, Jenkins, 카톡, Slack&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
-          <mxGeometry x="278.28" y="167.43" width="170.81" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" parent="1" vertex="1">
-          <mxGeometry x="551.9199999999998" y="120" width="190" height="114.87" as="geometry" />
-        </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-84" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Kubernetes&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" parent="1" vertex="1">
-          <mxGeometry x="561.5199999999999" y="167.43" width="170.81" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-85" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Quicksand;&quot;&gt;관리화면 접속&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Git Push, Git Pull&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="438.59000000000003" y="772.9999999999999" width="140" height="20" as="geometry" />
         </mxCell>
@@ -3334,12 +3322,6 @@
         </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-90" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;gitlab runner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="945" y="319.9999999999999" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-91" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;PT - npm, yarn 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. yarn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. heath check&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; version check&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="827" y="-19.27" width="233" height="246.7" as="geometry" />
-        </mxCell>
-        <mxCell id="X0x_3bXx5Oein4YClwOV-92" value="&lt;h2&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;BT - maven, gradle 빌드&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;1. git update&lt;/div&gt;&lt;div&gt;2. mvn build&lt;/div&gt;&lt;div&gt;3. mv -rf build ~~&lt;/div&gt;&lt;div&gt;4. was time update&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1076.62" y="-19.27" width="273.38" height="246.7" as="geometry" />
         </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-93" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tomcat9&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" parent="1" vertex="1">
           <mxGeometry x="1026.7900000000002" y="457.38" width="130" height="20" as="geometry" />
@@ -3387,7 +3369,7 @@
           <mxGeometry x="874.7700000000002" y="460" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0x_3bXx5Oein4YClwOV-115" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;* Git 프로젝트 저장소&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[1] GRM 그룹&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. GRM_Manage : 프로젝트관리 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. GRM_API&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : API 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. GRM_WEB&amp;nbsp; &amp;nbsp; &amp;nbsp; : WEB 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4. GRM_BATCH&amp;nbsp; : BATCH 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5. GRM_DOC&amp;nbsp; &amp;nbsp; &amp;nbsp; : 문서 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[2] Team-Security&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Dev-Server-Tools : 서버 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Dev-Client-Tools : 로컬 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. Gitlab-Manage : Gitlab 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="840.78" y="593.62" width="300" height="420" as="geometry" />
+          <mxGeometry x="840.78" y="593.62" width="339.22" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3689,7 +3671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="경영지원_ESG_Gitlab" id="2lkVYuwASBwIsBFsFYzg">
-    <mxGraphModel dx="1500" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-0" />
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-1" parent="Gf8euGkrsfwUHRa5VcTj-0" />
@@ -3979,18 +3961,6 @@
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-74" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;개발서버&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="925.37" y="536.5" width="170.81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="268.09000000000003" y="120" width="190" height="114.87" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-76" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Jira, Email, Jenkins, 카톡, Slack&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="278.28" y="167.43" width="170.81" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="551.9199999999998" y="120" width="190" height="114.87" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-78" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Kubernetes&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=15;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="561.5199999999999" y="167.43" width="170.81" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Quicksand;&quot;&gt;관리화면 접속&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Git Push, Git Pull&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="438.59000000000003" y="772.9999999999999" width="140" height="20" as="geometry" />
         </mxCell>
@@ -4000,16 +3970,7 @@
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-81" value="보안" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=13;strokeColor=#177245;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="598.83" y="454.45" width="83" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-82" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;gitlab runner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="945" y="319.9999999999999" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-83" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PT - npm, yarn 빌드&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. git update&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. yarn build&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. mv -rf build ~~&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4. heath check&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; version check&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="828.77" y="130" width="195" height="151.27" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-84" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BT - maven, gradle 빌드&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. git update&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. mvn build&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. mv -rf build ~~&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4. was time update&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=#333333;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="1039.62" y="132" width="212.38" height="151.27" as="geometry" />
-        </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-85" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tomcat9&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
+        <mxCell id="Gf8euGkrsfwUHRa5VcTj-85" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;WAS&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="1026.7900000000002" y="457.38" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-86" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Quicksand;fontSize=15;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#547342;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
@@ -4018,7 +3979,7 @@
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-87" value="&lt;span&gt;package Registry&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="497.5899999999999" y="657" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-88" value="Git 저장소" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
+        <mxCell id="Gf8euGkrsfwUHRa5VcTj-88" value="Git저장소" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="237" y="610" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-89" value="도커이미지&lt;br&gt;저장소" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=13;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
@@ -4051,11 +4012,11 @@
             <mxPoint x="1010" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gf8euGkrsfwUHRa5VcTj-98" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NginX&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
+        <mxCell id="Gf8euGkrsfwUHRa5VcTj-98" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;WEB&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
           <mxGeometry x="874.7700000000002" y="460" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-99" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;* Git 프로젝트 저장소&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[1] ESG 그룹&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. ESG_Manage : 프로젝트관리 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. ESG_API&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : API 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. ESG_WEB&amp;nbsp; &amp;nbsp; &amp;nbsp; : WEB 소스 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4. ESG_BATCH&amp;nbsp; : BATCH 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5. ESG_DOC&amp;nbsp; &amp;nbsp; &amp;nbsp; : 문서 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[2] Team-Security&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Dev-Server-Tools : 서버 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Dev-Client-Tools : 로컬 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. Gitlab-Manage : Gitlab 프로그램 저장소&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="Gf8euGkrsfwUHRa5VcTj-1">
-          <mxGeometry x="840.78" y="593.62" width="300" height="420" as="geometry" />
+          <mxGeometry x="840.78" y="593.62" width="379.22" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
