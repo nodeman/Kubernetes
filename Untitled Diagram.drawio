@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T17:06:17.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AAtdqexxamVw2dH3KwpM" version="21.2.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-04-21T17:07:25.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="X7XtH7qs8NN83goWsf1b" version="21.2.1" type="github" pages="21">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1579" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4301,6 +4301,12 @@
         </mxCell>
         <mxCell id="GSuvpFtMIlhUKMEjxpUp-30" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Quicksand&quot;&gt;운영 시스템&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1320.5" y="498" width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GSuvpFtMIlhUKMEjxpUp-31" value="&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;CI/CD&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="807.38" y="815.62" width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GSuvpFtMIlhUKMEjxpUp-32" value="&lt;font face=&quot;Quicksand&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;형상 Shell&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0E452A;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1043.15" y="815.3100000000001" width="164" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
