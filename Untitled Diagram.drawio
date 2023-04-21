@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T14:11:41.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5mgCqJe5QX93XrqswP0Q" version="21.2.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-04-21T14:47:27.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E7V70Y3Dvm-Oxi8S4iBm" version="21.2.1" type="github" pages="20">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1579" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1147,7 +1147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gr3LNi2G5RonyGTQasHv" name="전자문서지갑(개발)">
-    <mxGraphModel dx="2901" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7gq9AphBpjyg1umHl6LO-0" />
         <mxCell id="7gq9AphBpjyg1umHl6LO-1" parent="7gq9AphBpjyg1umHl6LO-0" />
@@ -1290,7 +1290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4zULKJTNogUETHPR9KU_" name="전자문서지갑(운영)">
-    <mxGraphModel dx="2901" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1559,7 +1559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="24lE36rjUEqDT233nzF-" name="MSA 아키텍처">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2017,7 +2017,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TJpuDPSIiF2yr9Gwwvvi" name="MIS개발 아키텍처">
-    <mxGraphModel dx="2074" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2210,7 +2210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yuJDeixINNjOlrBub-46" name="Repository개념">
-    <mxGraphModel dx="2901" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3375,7 +3375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="경영지원_ESG_아키텍처" id="ceOK5MxmSSufrCb6brDJ">
-    <mxGraphModel dx="1674" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KT7zESBCK3nf0_K53xVx-0" />
         <mxCell id="KT7zESBCK3nf0_K53xVx-1" parent="KT7zESBCK3nf0_K53xVx-0" />
@@ -3671,7 +3671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="경영지원_ESG_Gitlab" id="2lkVYuwASBwIsBFsFYzg">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-0" />
         <mxCell id="Gf8euGkrsfwUHRa5VcTj-1" parent="Gf8euGkrsfwUHRa5VcTj-0" />
@@ -4022,7 +4022,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MSQtkzFQOhYcRglabcEZ" name="페이지-19">
-    <mxGraphModel dx="901" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4096,6 +4096,62 @@
         </mxCell>
         <mxCell id="jpAyNwkna2GNYdCowDuP-22" value="&lt;b&gt;&lt;font color=&quot;#0E452A&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;대시보드, 리포팅 서비스&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="1750" y="553.25" width="190" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="06NDi1PA8sxZgzm0J0dD" name="페이지-20">
+    <mxGraphModel dx="528" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E7F6E5;fillColor=#E7F6E5;strokeWidth=2;strokeColor=#177245;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="262" width="630" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Local 스토리지&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="1333" y="783" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-5" value="&amp;nbsp;1. 사용자 테마 저장&lt;br&gt;&amp;nbsp;2. 레이아웃 설정저장&lt;br&gt;&amp;nbsp;3. 필요 설정 저장" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#177245;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="713" width="130" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Session 스토리지&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="1544" y="778" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-7" value="&amp;nbsp;1. 사용자 세션관련 저장" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#177245;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1528" y="713" width="156" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h_3YIb2IzhsFyhf1zyNp-17" value="&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#0e452a&quot;&gt;React 18 &lt;br&gt;Base&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="283" width="145" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="oELalD38fJYk4KTmbgzB-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;App 스토리지&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Quicksand;FType=g;fontStyle=1;fontSize=16;fontColor=#0E452A;" vertex="1" parent="1">
+          <mxGeometry x="1751" y="780" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oELalD38fJYk4KTmbgzB-2" value="&amp;nbsp;1. 전역변수 저장&lt;br&gt;&amp;nbsp;2. State 상태값 저장" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#177245;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="713" width="144" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cXoUbt1arcISQND0T45v-2" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;상용 UI&lt;br&gt;Component&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1540.5" y="283" width="145" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="cXoUbt1arcISQND0T45v-3" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Ag Grid&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1736" y="280" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cXoUbt1arcISQND0T45v-4" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Reporting&lt;br&gt;Tool&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="421.5" width="145" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="cXoUbt1arcISQND0T45v-5" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Client 상태관리&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(14, 69, 42); font-size: 19px;&quot;&gt;Zutand&lt;/span&gt;&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1540.5" y="423.5" width="145" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="9DmFNN8KrMqERc3jWP1b-1" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Server 상태관리&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(14, 69, 42); font-size: 19px;&quot;&gt;SWR&lt;/span&gt;&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1736" y="423.5" width="145" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="9DmFNN8KrMqERc3jWP1b-2" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Dynamic&lt;br&gt;Chart&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="563" width="145" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="9DmFNN8KrMqERc3jWP1b-4" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;웹빌드&lt;br&gt;&lt;br&gt;&lt;/span&gt;소스난독화, 압축지원&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1540.5" y="560" width="145" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="9DmFNN8KrMqERc3jWP1b-5" value="&lt;font color=&quot;#0e452a&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;공통 파일&lt;br&gt;&lt;br&gt;컴포넌트&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Quicksand;fontSize=14;fontStyle=1;fontColor=#177245;strokeColor=#177245;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1736" y="559" width="145" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
