@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T05:05:10.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="68e8pdiIr4lgdvBn0OoF" version="21.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-22T05:05:34.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d61PPWDObAUDOsOt20F_" version="21.2.3" type="github" pages="22">
   <diagram id="zqWQqUdTwiIyOvmaYmjz" name="1. 클러스터 정보">
     <mxGraphModel dx="1449" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4358,8 +4358,8 @@
         <mxCell id="jz8wJp_mahjEmHc-RO0V-26" value="사설 : https://dev-feb.hanabank.com:18443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="219" y="293.5" width="272" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="jz8wJp_mahjEmHc-RO0V-30" value="eauwbd11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="312.58" y="207.89" width="57.42" height="16.62" as="geometry" />
+        <mxCell id="jz8wJp_mahjEmHc-RO0V-30" value="febwbd01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="311.58" y="207.89" width="57.42" height="16.62" as="geometry" />
         </mxCell>
         <mxCell id="jz8wJp_mahjEmHc-RO0V-33" value="&lt;div&gt;&lt;/div&gt;https://211.32.64.223:443&lt;br&gt;https://dev-feb.hanabank.com:443" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-160" y="243.75" width="252.25" height="46.26" as="geometry" />
